@@ -1,0 +1,52 @@
+- inflow
+  - colorado river (96%)（自东向西，自北向南流）
+  - 其它来源
+    - 3条支流
+      - Las Vegas Wash
+      - Virgin River
+      - Muddy River
+    - 自然降水
+  - 
+- outflow
+  - 大坝放水（https://en.wikipedia.org/wiki/List_of_dams_in_the_Colorado_River_system）
+    - Hoover Dam
+  - 直接使用导致的消耗
+- loss
+  - 水蒸发
+- 需要做的工作
+  - 探究影响上述三者的因素
+  - 并讨论得到每一个因素对于湖水体积的影响
+
+- 假设
+  1. 科罗拉多河的流量为某个**平均值**
+  2. Glen Canyon Dam 距离 Lake Mead 直线距离约为 253 km，可以忽略其对 Lake Mead 水位的影响
+  3. Davis Dam 虽然距离 Lake Mead 直线距离小于 100 km，但是在下游，影响可以忽略
+  4. 将科罗拉多河除了水库外的部分：东西向部分与南北向部分，中间由 Lake Mead 隔开，且南北向部分的最北端由 Hoover Dam 拦截
+  5. 查询官方数据得知，三条支流的流量相对十分稳定，故假设流量为常数（https://water.weather.gov/ahps2/index.php?wfo=vef）
+  6. 降水、流量（稳定的流量）取历年平均数据，并且为了保持相对的稳定性，我们以月为单位将总量平均分配。例如，我们将每个月的降水量按平均计算，并在每一天末的降水量加到 $V_{Lake}$​ 中​
+
+- 设流入为 $I$​​​​​​​（$m^3/s$​​​​​​​），流出为 $O$​​​​​​​（$m^3/s$​​​​​​​），蒸发 $EV(V_{Lake})$​​​​​​​ (evaporate)，温度为 $T$​​​​​，时间为 $t$​​​​​，三条支流的流量为 $Q_{Wash}, Q_{Virgin}, Q_{Muddy}$​​​​​（$m^3/s$​​​​​），大坝水位为 $H\in \left[0, H_{max}\right]$​，大坝放水流量为 $Q_{Dam}\in\left[0, Q_M\right]$​（$m^3/s$​），降水量为 $Q_{Rain}(t)$​，
+- 
+- $\dfrac{\mathrm{d}EV}{\mathrm{d}t}\propto S_{Lake}$​
+- $\dfrac{\mathrm{d}EV}{\mathrm{d}t}\propto \dfrac{1}{T}\cdot \exp \left( -\dfrac{1}{T} \right) 
+  $​​
+- $S_{Lake}\leftarrow V_{Lake}$
+- $\mathrm{d}V_{Lake}=I-O-EV(V_{Lake})$​​​
+- $I=Q_{Wash}+Q_{Virgin}+Q_{Muddy}+Q_{Rain}$​​​
+- $O=Q_{Dam}$​​**​​
+- $H=H_{Lake}$​
+
+
+
+
+
+- problem 2
+
+  - 公认的干旱时间
+    - 1953-1956
+    - 1963-1965
+    - 
+
+  - 标准
+    - 相对和绝对
+  - 

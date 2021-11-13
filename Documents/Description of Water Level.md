@@ -1,0 +1,7 @@
+# Description of Water Level
+
+Plotting all the data provided into a single line plot creates *Fig. a1*. The minimum during a small period (a year) is significant and will be discussed later. During the first few years of Lake Mead (1935-1939), the water level took a steep rise from approx. 700 ft to approx. 1100 ft. Years 1955-1957 saw the first drought of Lake Mead as shown in *Fig. a2*, reaching a minimum of 1083.57 ft in March, 1956. Lake Mead then experienced a short period of normal water level until the drought from 1964-1966 (*Fig. a3*). A water level of 1088 ft was reached in 1964.12 and 1965.3. Rising steadily since, the water level peacked in 1983.7 with 1225.4 ft (*Fig. a4*). The water level was steady until the 21st century, and the Water Level drops steadily. In other words, Lake Mead was in a drought since then (*Fig. a5*).
+
+Then, taking the maximum and minimum water level into consideration (*Fig b*), the range (the difference between maximum and minimum) usually increases when the water level rises or falls significantly, and decreases when the water level is steady.
+
+According to *Fig. c*, it is obvious that the water level drops significantly in the gap between Winter and Spring, reaching a minimum of 1,145 ft avg. in March and April. After the drop, the water level rises an peaks in July with an average of 1,155 ft. It decreases steadily in Autumn and Winter, and the pattern continues almost every year. However, the pattern became inconspicuous before, during and after a drought.
