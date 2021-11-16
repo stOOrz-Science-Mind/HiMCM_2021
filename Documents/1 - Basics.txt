@@ -50,3 +50,10 @@
   - 标准
     - 相对和绝对
   - 
+
+
+
+
+
+$\dfrac{\mathrm{d}V}{\mathrm{d}t}=C_1+C_2\cdot V
+\\V=C\cdot e^{C_2t}-\dfrac{C_1}{C_2}$​
