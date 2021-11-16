@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1636995173 "12003.xdv" "12003.pdf" "12003" 1636995175
-  "12003.xdv" 1636995173 77948 5bf3f042cb47988ded669dad5e04c8f3 "xelatex"
+["xdvipdfmx"] 1637036582 "12003.xdv" "12003.pdf" "12003" 1637036584
+  "12003.xdv" 1637036582 79200 624cc464be6df595c8cb797f3ff92079 "xelatex"
   (generated)
   "12003.pdf"
-["xelatex"] 1636995170 "12003.tex" "12003.xdv" "12003" 1636995174
+["xelatex"] 1637036580 "12003.tex" "12003.xdv" "12003" 1637036584
   "/System/Library/Fonts/Menlo.ttc" 1636026913 2155812 30e8e1ead3db825f24e1d4bdb001343e ""
   "/System/Library/Fonts/PingFang.ttc" 1636026913 77143236 99e2de86304bbeebc5f20fc3e427d415 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -170,10 +170,10 @@
   "/usr/local/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt" 1635337791 5133932 ea968cb54aa761411f5a7fb1a3ece1c6 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
   "1.1 Lake Mead.jpg" 1636787060 281278 ccdadce8ae84f088a273e4e8cd8211b7 ""
-  "12003.aux" 1636995173 5142 14510840631d2ce0718fffce22afd8e2 "xelatex"
-  "12003.out" 1636995173 3757 ba3a5ce551d41222b3af689d9a25568f "xelatex"
-  "12003.tex" 1636995169 36878 83c80bfa9455decfc8ded8002bb81c2b ""
-  "12003.toc" 1636995173 2313 44e2f22a3f81ca6e601eb7c9d1b3741e "xelatex"
+  "12003.aux" 1637036582 5167 7004c2e32feb1c6389f53ade02effa60 "xelatex"
+  "12003.out" 1637036582 3754 59b749d9d6712b4d31832c4d3fe815d6 "xelatex"
+  "12003.tex" 1637036577 37453 5c77bbb81a6779036cbbc9410c2a8d8a ""
+  "12003.toc" 1637036582 2314 6fd7ab66eea553865d0053156879737c "xelatex"
   "2.1a Lake Mead, Glen Canyon Dam and Davis Dam.jpg" 1636615060 489342 2060eead6b832ff7ce7f1212a604ff1e ""
   "2.1b Lake Mead, Glen Canyon Dam and Davis Dam.jpg" 1636640148 438272 77df5cd0e17caacb0c9a60a84866bcbf ""
   "2.1c Lake Mead, Glen Canyon Dam and Davis Dam.jpg" 1636640258 722474 f6dd212b82194c9ef75496cdf0ea8b59 ""
@@ -182,6 +182,7 @@
   "2.4 Model labeled with Elevation.jpg" 1636704914 692614 1b543fc24e215ab98fa8c880c1469893 ""
   "2.5 Model labeled with Length and Slope.jpg" 1636704920 510551 c7e721cf453cd4b668e5a9c08046f4e5 ""
   "2.6 Pattern provided by data.png" 1636984405 21526 22be861f6866700e1c5e826208ec40f4 ""
+  "2.7 The Relationship between Relative Elevation and Length.jpg" 1637036251 30854 042f4106a8121ce55ab953fdff26f653 ""
   "3.1 Water Level in Inches.jpg" 1636623010 55117 b26f9665409155c4523aa4edd80415d2 ""
   "3.10 D_2 over time.jpg" 1636989017 152555 6d180ad1aae40db8baeb388a72b65f23 ""
   "3.11 Results of Model 2.jpg" 1636989065 233189 750ab3ce2601d5a48299c9f885151b1e ""
@@ -195,8 +196,8 @@
   "3.9 D_1 over time.jpg" 1636988977 269391 5d8a138b3bbde6ab2a74f8a63d398d71 ""
   "4.1 The Location for the Sewage Plant.png" 1636856036 95404 e58e36fac07baa5d300da86b15f2271c ""
   (generated)
-  "12003.out"
-  "12003.xdv"
-  "12003.toc"
   "12003.aux"
   "12003.log"
+  "12003.xdv"
+  "12003.toc"
+  "12003.out"

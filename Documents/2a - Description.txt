@@ -1,0 +1,2 @@
+We obtained data from the official website of Lake Mead, thus plotting it using MATLAB Curve Fitting. From Fig 2.7, we can see that the relative elevation of Lake Mead has a rather linear relationship with the length, i.e. the square root of the area. Therefore, we can infer the correctness of the prismatic shape as assumed above.
+

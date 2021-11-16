@@ -46,7 +46,7 @@
 \newcommand{\Problem}{B}
 \newcommand{\Team}{{12003}}
 \newcommand{\Title}{{Tackling the Drought}}
-\newcommand{\wholepages}{19}
+\newcommand{\wholepages}{21}
 \title{\huge\textbf{Tackling the Drought}}
 \author{Team\#\Team}
 \date{\today}
@@ -321,7 +321,7 @@ Last but not least, we considered the impact of the change in water level to nea
 			O&=&Q_{\text{Dam}}\\
 			H&=&H_{\text{Lake}}\\
 		\end{array}$$
-		\subsection{depth area}
+		\subsection{Depth-Area}
 
 	The area of Lake Mead is 640, 000, 000$\rm{m}^2$ and its depth is 162$\text{m}$ \cite{Lake Mead}, so the length of the top equals the square root of the area. ($l_{\text{top}}=\sqrt{6.4\times{10^8}} \rm{m}\approx25298.2\rm{m}$)
 
@@ -352,6 +352,7 @@ Last but not least, we considered the impact of the change in water level to nea
 	($h$ refers to the distance between a certain depth and the bottom of the lake)
 
 	\subsection{Verification}
+
 	In the analysis of the first part, we discuss the loss of water due to evaporation based on the formula of Water Vapor Equilibrium. Now we need to do more to discuss the accuracy of this formula.
 	
 	We used the data from Bureau of Reclamtion \cite{Storage Data} and recorded the evaporation condition of Lake Mead. After analyzing the relationship, we drew a chart to find its degree of difference between the formula and the data's pattern.
@@ -363,6 +364,14 @@ Last but not least, we considered the impact of the change in water level to nea
 	\end{center}
 
 	From this chart, we deduce that the mathematical formula in the former part fits well with the official data: the R-square is only at a level of 0.8664 and the RMSE is 72.08.
+
+	\begin{center}
+		\includegraphics[width=10cm]{2.7 The Relationship between Relative Elevation and Length.jpg}
+
+		\small \textit{Fig. 2.7 The Relationship between Relative Elevation and Length}
+	\end{center}
+
+	We obtained data from the official website of Lake Mead \cite{Storage Data}, thus plotting it using MATLab Curve Fitting. From Fig. 2.7, we can see that the relative elevation of Lake Mead has a rather linear relationship with the length, i.e. the square root of the area. Therefore, we can infer the correctness of the prismatic shape as assumed above.
 
 \newpage
 \section{Dealing with Drought}
